@@ -57,9 +57,6 @@ npm run build
 
 2. Deploy the generated `build` folder to a hosting service of your choice.
 
-
-
-
 ## Acknowledgments
 
-This chat app was developed based on the tutorial and guidance provided by the OpenAI ChatGPT language model. Special thanks to OpenAI for their incredible work in the field of artificial intelligence.
+This chat app was developed based on the tutorial and guidance provided by the video titled "Chat App using React and Firebase | Realtime Private Chat Application" on the YouTube channel "Lama Dev". I would like to express my gratitude to Lama Dev for creating and sharing such a helpful resource.
